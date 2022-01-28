@@ -1,5 +1,5 @@
 //const api_url = "<heroku_app_url>"
-const api_url = " http://localhost:8070/user"
+const api_url = " http://localhost:8080/user"
 function loadData(records = []) {
 var table_data = "";
 for(let i=0; i<records.length; i++) {
